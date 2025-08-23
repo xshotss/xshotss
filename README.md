@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm xshotss (or shots)
 
-<!--
-**xshotss/xshotss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **hobbyist developer** who loves all things retro—especially old-school tech, emulation, and creative coding projects. Most of the time, I make fun things or tinker with ideas that I find interesting, rather than building for utility alone. For me, programming is about curiosity, nostalgia, and the joy of bringing quirky ideas to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+- **Rust** (my go-to language)
+- **Lua** (for integration, embedding, and scripting)
+- **C** (just a bit)
+- **Python** (helper scripts, limited experience)
+
+**Favorite Editors:**  
+Vim/Neovim • VS Code
+
+---
+
+## 🚀 Projects
+
+- [**rs-audio**](https://github.com/xshotss/rs-audio):  
+  A Rust library for programmatically creating retro music.
+
+- **Fantasy 8-bit PC (WIP):**  
+  An ongoing project to build a virtual machine inspired by DOS, with a distinct 8-bit character and some unique quirks.
+
+---
+
+## 👤 About Me
+
+- Enthusiast for retro computing, console emulation, and digital nostalgia.
+- Always exploring new tools, frameworks, and languages.
+- I enjoy collaborating and sharing ideas with the developer community—especially when it comes to fun or offbeat projects.
+
+---
+
+## 🌐 Connect
+
+- Bluesky: [shotsdev.bsky.social](https://bsky.app/profile/shotsdev.bsky.social)
+
+> I don't plan on working on any big projects, but I'm glad to contribute to open source if something catches my interest!
+
+---
