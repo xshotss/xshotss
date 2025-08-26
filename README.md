@@ -21,8 +21,8 @@ Vim/Neovim • VS Code
 - [**rs-audio**](https://github.com/xshotss/rs-audio):  
   A Rust library for programmatically creating retro music.
 
-- **Fantasy 8-bit PC (WIP):**  
-  An ongoing project to build a virtual machine inspired by DOS, with a distinct 8-bit character and some unique quirks.
+- **Programming language (WIP):**  
+  An ongoing project to build an interpreted programming language.
 
 ---
 
