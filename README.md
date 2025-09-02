@@ -24,9 +24,6 @@ Vim/Neovim • VS Code
 - [**rs-audio**](https://github.com/xshotss/rs-audio):  
   A Rust library for programmatically creating retro music.
 
-- **Programming language (WIP):**  
-  An ongoing project to build an interpreted programming language.
-
 ---
 
 ## 👤 About Me
