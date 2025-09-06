@@ -6,13 +6,12 @@ I'm a **hobbyist developer** who loves all things retro—especially old-school 
 
 ## 🛠️ Languages & Tools
 
-- **Rust** (my current main language)
+- **Rust** (my current main language, might switch to C)
 - **Lua** (for integration, embedding, and scripting)
-- **C** (just a bit)
 - **Python** (helper scripts, limited experience)
 
 ## Learning
-- **C++**
+- **C**
 
 **Favorite Editors:**  
 Vim/Neovim • VS Code
